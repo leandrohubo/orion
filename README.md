@@ -106,6 +106,7 @@ If you want to help translating Orion to your language follow the [instructions]
 - [brajt:orion-lang-pl](https://github.com/brajt/orion-lang-pl) Polish
 - [findegil:orion-lang-bg](https://atmospherejs.com/findegil/orion-lang-bg) Bulgarian
 - [eyeskiller:orion-lang-sk](https://github.com/eyeskiller/orion-lang-sk) Slovak
+- [leandrohubo:orion-lang-br](https://github.com/leandrohubo/orion-lang-br) Portuguese
 
 **Integrations:**
 
